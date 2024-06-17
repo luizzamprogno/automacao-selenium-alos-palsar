@@ -1,0 +1,9 @@
+# Acessar o site https://search.asf.alaska.edu/
+# Logar na conta de usuário
+# Alterar o dataset para Alos-PALSAR
+# Subir a area de interesse (kml)
+# Adicionar Start Date
+# Adicionar End Date
+# Clicar em search
+# Clicar na primeira imagem encontrada (mais recente)
+# Fazer o download de 'Hi-Res Terrain Corrected'
